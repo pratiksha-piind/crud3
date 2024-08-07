@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "crud-3-client-side-solution",
+    "id": "ff748179-9a2b-4ab4-a344-bbe820c798b3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "crud-3 description"
+      },
+      "longDescription": {
+        "default": "crud-3 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "crud-3 Feature",
+        "description": "The feature that activates elements of the crud-3 solution.",
+        "id": "3fdafd29-0e0d-4301-9ab0-fca185f5e48b",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/crud-3.sppkg"
+  }
+}
